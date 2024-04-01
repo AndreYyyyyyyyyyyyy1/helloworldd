@@ -5,6 +5,7 @@
 
 int main()
 {
+    difftime;
     std::cout << "Hello World!\n";
 }
 FILE;
